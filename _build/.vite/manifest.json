@@ -1,0 +1,87 @@
+{
+  "_HttpStatusCode-DjTx85av.js": {
+    "file": "assets/HttpStatusCode-DjTx85av.js",
+    "name": "HttpStatusCode"
+  },
+  "_index-BxTDfHai.js": {
+    "file": "assets/index-BxTDfHai.js",
+    "name": "index"
+  },
+  "src/routes/[...404].tsx?pick=default&pick=$css": {
+    "file": "assets/_...404_-yz2H3KO0.js",
+    "name": "_...404_",
+    "src": "src/routes/[...404].tsx?pick=default&pick=$css",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-BxTDfHai.js",
+      "_HttpStatusCode-DjTx85av.js"
+    ]
+  },
+  "src/routes/about.tsx?pick=default&pick=$css": {
+    "file": "assets/about-58lPHZru.js",
+    "name": "about",
+    "src": "src/routes/about.tsx?pick=default&pick=$css",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-BxTDfHai.js"
+    ]
+  },
+  "src/routes/hero1.tsx?pick=default&pick=$css": {
+    "file": "assets/hero1-Q9yNnXJj.js",
+    "name": "hero1",
+    "src": "src/routes/hero1.tsx?pick=default&pick=$css",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-BxTDfHai.js"
+    ],
+    "css": [
+      "assets/hero1-nTe5MXJW.css"
+    ]
+  },
+  "src/routes/hero2.tsx?pick=default&pick=$css": {
+    "file": "assets/hero2-v1Wu1Lnv.js",
+    "name": "hero2",
+    "src": "src/routes/hero2.tsx?pick=default&pick=$css",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-BxTDfHai.js"
+    ],
+    "css": [
+      "assets/hero2-UTB9tE2k.css"
+    ]
+  },
+  "src/routes/index.tsx?pick=default&pick=$css": {
+    "file": "assets/index-7M3AkF2o.js",
+    "name": "index",
+    "src": "src/routes/index.tsx?pick=default&pick=$css",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-BxTDfHai.js"
+    ]
+  },
+  "virtual:$vinxi/handler/client": {
+    "file": "assets/client-DsYg7FpR.js",
+    "name": "client",
+    "src": "virtual:$vinxi/handler/client",
+    "isEntry": true,
+    "imports": [
+      "_index-BxTDfHai.js",
+      "_HttpStatusCode-DjTx85av.js"
+    ],
+    "dynamicImports": [
+      "src/routes/[...404].tsx?pick=default&pick=$css",
+      "src/routes/about.tsx?pick=default&pick=$css",
+      "src/routes/hero1.tsx?pick=default&pick=$css",
+      "src/routes/hero2.tsx?pick=default&pick=$css",
+      "src/routes/index.tsx?pick=default&pick=$css"
+    ],
+    "css": [
+      "assets/client-3iP7j_QB.css"
+    ]
+  }
+}
