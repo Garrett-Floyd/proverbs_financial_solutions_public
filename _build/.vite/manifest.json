@@ -29,7 +29,7 @@
     ]
   },
   "src/routes/hero1.tsx?pick=default&pick=$css": {
-    "file": "assets/hero1-Q9yNnXJj.js",
+    "file": "assets/hero1-DHRNmJiE.js",
     "name": "hero1",
     "src": "src/routes/hero1.tsx?pick=default&pick=$css",
     "isEntry": true,
@@ -38,11 +38,11 @@
       "_index-BxTDfHai.js"
     ],
     "css": [
-      "assets/hero1-nTe5MXJW.css"
+      "assets/hero1-EoUgOmBn.css"
     ]
   },
   "src/routes/hero2.tsx?pick=default&pick=$css": {
-    "file": "assets/hero2-v1Wu1Lnv.js",
+    "file": "assets/hero2-DW2x6Voq.js",
     "name": "hero2",
     "src": "src/routes/hero2.tsx?pick=default&pick=$css",
     "isEntry": true,
@@ -51,7 +51,7 @@
       "_index-BxTDfHai.js"
     ],
     "css": [
-      "assets/hero2-UTB9tE2k.css"
+      "assets/hero2-Kg2W4aao.css"
     ]
   },
   "src/routes/index.tsx?pick=default&pick=$css": {
@@ -65,7 +65,7 @@
     ]
   },
   "virtual:$vinxi/handler/client": {
-    "file": "assets/client-DsYg7FpR.js",
+    "file": "assets/client-wyd1DByz.js",
     "name": "client",
     "src": "virtual:$vinxi/handler/client",
     "isEntry": true,
@@ -81,7 +81,7 @@
       "src/routes/index.tsx?pick=default&pick=$css"
     ],
     "css": [
-      "assets/client-3iP7j_QB.css"
+      "assets/client-kh-JcWTX.css"
     ]
   }
 }
